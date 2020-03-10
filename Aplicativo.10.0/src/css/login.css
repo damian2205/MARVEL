@@ -1,0 +1,32 @@
+/* Imagen de tarjeta de registro      */
+div.card{
+    background-image: url(../images/marvel.png);
+    background-size: 100% 100%;
+    border-color: darkslategray;
+    border-width: 8px;
+}
+/* Espacio de input usuario   */
+input.usuario{          
+    border-radius: 10px 10px 10px 10px;
+    width: 100%;
+    border-color: darkslategray;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* Espacio de input password  */
+input.password{         
+    border-radius: 10px 10px 10px 10px;
+    width: 100%;
+    border-color: darkslategray;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Espacio de boton login  */
+button.login{
+    border-radius: 10px 10px 10px 10px;
+    width: 50%;
+    border-color: darkslategray;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

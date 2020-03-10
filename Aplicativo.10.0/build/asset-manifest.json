@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19dd1396.chunk.css",
+    "main.js": "/static/js/main.9ea1239d.chunk.js",
+    "main.js.map": "/static/js/main.9ea1239d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9fbb4c6b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9fbb4c6b.js.map",
+    "static/js/2.e0d2dca5.chunk.js": "/static/js/2.e0d2dca5.chunk.js",
+    "static/js/2.e0d2dca5.chunk.js.map": "/static/js/2.e0d2dca5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.31edd2ded9df907f8b95c9f8e425eab1.js": "/precache-manifest.31edd2ded9df907f8b95c9f8e425eab1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.19dd1396.chunk.css.map": "/static/css/main.19dd1396.chunk.css.map",
+    "static/js/2.e0d2dca5.chunk.js.LICENSE.txt": "/static/js/2.e0d2dca5.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/static/media/comics-marvel.361314d2.jpg",
+    "static/media/registro.css": "/static/media/marvel.78f339d1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fbb4c6b.js",
+    "static/js/2.e0d2dca5.chunk.js",
+    "static/css/main.19dd1396.chunk.css",
+    "static/js/main.9ea1239d.chunk.js"
+  ]
+}

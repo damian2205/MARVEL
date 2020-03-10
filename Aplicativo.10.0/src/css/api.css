@@ -1,0 +1,34 @@
+nav.navegacion{
+    margin-top: -3.6%;
+    margin-left: 89%;
+    position: absolute;
+}
+div.card_{
+    border-color: rgb(255, 0, 0);
+    border-width: 10px;
+    width: 14%;
+    height: 14%;
+    position: absolute;
+
+}
+div.dropdown{
+    float: right;
+    margin-right: 4em;
+    margin-top: 0.1em;
+    position: relative;
+}
+div.fav{
+    background-color: teal;
+}
+/* div.list{
+    background-color: tomato;
+    border-color: rgb(255, 0, 0);
+    margin-left: 20em;
+    width: 10em;
+    height: auto;
+} */
+div.card_1{
+    width: 45em;
+    margin-left: -5em;
+    background-color: silver;
+}
